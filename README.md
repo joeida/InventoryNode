@@ -4,7 +4,7 @@
 * Create command line basic inventory application.
 
 ### Objective
-* Use node.js to create a command line basic inventory application.
+* Deomonstrate the use of node.js in the creation of a command line basic inventory application.
   1. Create MySQL database to store inventory items.
   2. Create Products table to keep track of inventory with following fields.
     1. ItemID
